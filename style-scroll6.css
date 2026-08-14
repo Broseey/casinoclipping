@@ -148,7 +148,7 @@ a {
       transparent 55%
     ),
     linear-gradient(160deg, rgba(4, 12, 8, 0.86), rgba(2, 2, 2, 0.94) 65%),
-    url("./casino-menu-bg-image.avif") center/cover no-repeat;
+    url("./assets/casino-menu-bg-image.avif") center/cover no-repeat;
 }
 .cover-wrap,
 .cover,
