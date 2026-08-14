@@ -933,7 +933,7 @@ section {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  transform: scale(1.02);
+  transform: scale(1.08);
   transform-origin: center;
   will-change: transform;
   backface-visibility: hidden;
@@ -1193,7 +1193,7 @@ section {
       rgba(55, 64, 31, 0.6) 55%,
       rgba(28, 32, 16, 1) 100%
     );
-  transition: background 0.5s ease;
+  transition: all 0.5s ease;
 }
 .projects-teaser__caption {
   position: absolute;
