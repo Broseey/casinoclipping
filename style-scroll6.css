@@ -1261,17 +1261,11 @@ section {
 
 @media screen and (max-width: 56em) {
   .projects-teaser {
-    height: clamp(320px, 68vw, 520px);
+    height: 520px;
   }
 
   .projects-teaser__card {
     height: 82%;
-  }
-}
-
-@media screen and (max-width: 30em) {
-  .projects-teaser {
-    height: clamp(280px, 92vw, 420px);
   }
 }
 
